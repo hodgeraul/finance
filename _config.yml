@@ -26,9 +26,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://finance.wanderpost.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
+permalink: /:title/
+
 
 # Build settings
-theme: minima
+theme: modernist
 plugins:
   - jekyll-feed
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
