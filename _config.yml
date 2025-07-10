@@ -28,6 +28,8 @@ url: "https://finance.wanderpost.com" # the base hostname & protocol for your si
 #github_username:  jekyll
 permalink: /:title/
 
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: G-S0QJ1LXXEE
 
 # Build settings
 theme: minima
