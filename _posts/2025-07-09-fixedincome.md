@@ -54,7 +54,7 @@ A major advantage of treasuries is the interest income is exempt from state and 
 
 Agency bonds typically have a longer duration, from 3 to 20 years. They are usually not call protected, but do offer higher interest rates. The risk is that you may see your money returned well ahead of the term, especially during times when interest rates are cut.
 
-Both treasuries and agency bonds can be traded in your brokerage account at Fidelity or other brokerages. You can buy newly issued bonds or buy already issued bonds that someone wants to sell.
+Both treasuries and agency bonds can be traded in your brokerage account at Fidelity or other brokerages. It is best to buy bonds that are newly issued to minimize tax consequences. You can also buy already issued bonds that someone wants to sell but you also need to factor in any tax consequences.
 
 
 ### High-Quality and Tax-Advantaged
