@@ -30,7 +30,7 @@ permalink: /:title/
 
 
 # Build settings
-theme: jeykll-theme-hacker
+theme: jeykll-theme-modernist
 plugins:
   - jekyll-feed
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
