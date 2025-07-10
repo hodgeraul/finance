@@ -30,7 +30,7 @@ permalink: /:title/
 
 
 # Build settings
-theme: hacker
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
