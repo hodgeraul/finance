@@ -11,6 +11,7 @@ author: nanashi no gonbei
 
 The stock market can be a thrilling ride, with soaring highs and stomach-churning drops. But for savvy investors, building a resilient portfolio isn't just about chasing meteoric gains-it's about balance and stability. When the market feels overheated or you're looking for a dependable way to diversify, it's time to turn your attention to a powerful but often misunderstood asset class: fixed-income investments. Far from being just a place to park cash, a well-structured fixed-income strategy can offer a higher level of growth than a standard savings account, providing a steady anchor in the stormy seas of market volatility.
 
+![bond stability](/images/bonds/bondstability.png)
 ## What is Fixed Income? You're the Lender.
 
 At its core, a fixed-income investment is remarkably simple: you are loaning your money to an entity, be it a government or a corporation. In return for that loan, the borrower agrees to a clear set of terms:
