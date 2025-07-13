@@ -46,6 +46,8 @@ For short durations of upto a year, CDs are generally call protected. You may al
 * **Treasury Notes (T-Notes):** Medium-term (2 to 10 years).
 * **Treasury Bonds (T-Bonds):** Long-term (20 to 30 years). 
 
+![uncle sam](/images/bonds/unclesam.png)
+
 Every month, the Government auctions bills, notes and bonds. You can find the current auction schedule on the treasury website. For example: [Upcoming auctions](https://www.treasurydirect.gov/auctions/upcoming/) and [Tentative auction schedule](https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf)
 
 A major advantage of treasuries is the interest income is exempt from state and local income taxes, a significant benefit for high-earners in high-tax states, like CA and NY.  All these treasury securities are call-protected, which means you can count on getting the interest for the entire duration, with your principal returned to you at the end of the term. Treasury securities are also very liquid. You will find lot of buyers in the secondary market for Treasuries.
